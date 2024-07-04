@@ -11,3 +11,6 @@ npm run dev
 ## Result
 ![image](https://github.com/vinhpx88/comment-app-with-worker/assets/117154767/7695b5e3-0f14-4ef0-a428-eeb3f4d0ecb0)
 
+## Note
+This web worker just fake the toxic detection, in the real world, it should use toxicity model from tensorflow:
+https://github.com/tensorflow/tfjs-models/tree/master/toxicity
